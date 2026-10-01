@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-4th-year software engineering student at ENIAD Berkane, Morocco. I build full-stack web apps and care about clean code and DevOps practices
+4th-year software engineering student at ENIAD Berkane, Morocco. I build full-stack web apps and care about clean code and DevOps practices.
 
 🔭 &nbsp;I'm currently working on **my portfolio and GitHub projects (CareerPilot, Ijaza)**  
 🌱 &nbsp;I'm currently learning **Kubernetes and advanced DevOps practices**  
@@ -44,6 +44,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
+
+### 🚀 Featured Projects
+
+- **[CareerPilot](https://github.com/fatimazahra-marghich/CareerPilot)**: AI-powered recruitment web app with CV analysis, ATS scoring, job matching and a voice-based interview simulator. Built with React, Django REST Framework and PostgreSQL.
+- **[Ijaza](https://github.com/fatimazahra-marghich/stage_pfa_wilaya)**: leave management web app that digitalizes a manual process for a public administration. Four role-based spaces, a two-level approval workflow and JWT authentication. Built with Django REST Framework, PostgreSQL, React and Tailwind CSS.
+- **[ESTO-EduTech](https://github.com/fatimazahra-marghich/esto-edutech)**: school management platform for courses, grades and absences, with role-based access. Built with Laravel, PHP, JavaScript and MySQL.
+- **[Study Up](https://github.com/fatimazahra-marghich/study-up)**: desktop app for student task management with a Pomodoro timer, calendar, whiteboard and progress stats. Built with Java, JavaFX and MySQL.
 
 ### 🔗 Connect With Me
 
