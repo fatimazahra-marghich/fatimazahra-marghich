@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=790&height=44&lines=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20DevOps;Building%20web%20apps%20with%20React%2C%20Django%20%26%20Docker" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=790&height=44&lines=Software%20Engineering%20Student%20%7C%20Full-Stack%2C%20DevOps%20%26%20Data%2FAI;Building%20web%20apps%2C%20RAG%20and%20ML%20projects" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-4th-year software engineering student at ENIAD Berkane, Morocco. I build full-stack web apps and care about clean code and DevOps practices.
+4th-year software engineering student at ENIAD Berkane, Morocco. I build full-stack web apps, and I am now focusing on data and AI (machine learning, RAG) with clean code, tests and DevOps practices.
 
-🔭 &nbsp;I'm currently working on **my portfolio and GitHub projects (CareerPilot, Ijaza)**  
-🌱 &nbsp;I'm currently learning **Kubernetes and advanced DevOps practices**  
-👯 &nbsp;I'm looking to collaborate on **full-stack web projects and AI-powered apps**  
-🤔 &nbsp;I'm looking for help with **finding a PFE internship in full-stack / DevOps**
+🔭 &nbsp;I'm currently working on **my GitHub projects (CareerPilot, RAG assistant, churn prediction)**  
+🌱 &nbsp;I'm currently learning **machine learning, RAG and DevOps practices**  
+👯 &nbsp;I'm looking to collaborate on **full-stack web projects and data / AI apps**  
+🤔 &nbsp;I'm looking for a **6-month PFE internship in Data & AI / DevOps / full-stack** (from January 15, 2027, anywhere in Morocco)
 
 ### 🛠️ Tech Stack
 
@@ -38,8 +38,10 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
@@ -47,8 +49,10 @@
 
 ### 🚀 Featured Projects
 
+- **[RAG ENIAD](https://github.com/fatimazahra-marghich/rag-eniad)**: French question-answering assistant over PDF documents. PDF extraction (PyMuPDF), multilingual embeddings (multilingual-e5-small), Chroma vector store and Groq LLM generation. A calibrated similarity threshold and a refusal instruction reduce invented answers: 9/10 on 10 new questions never used for tuning. FastAPI API (`/ask`, `/agent`, `/health`), a two-tool agent with tool calling, 38 automated tests, GitHub Actions CI and a Docker image on GitHub Container Registry. Built with Python, FastAPI, Chroma and Docker.
+- **[Telco Churn Prediction](https://github.com/fatimazahra-marghich/telco-churn-prediction)**: analysis of 7,043 telecom customers with pandas and SQL, chi-square tests, and classification models (logistic regression, random forest) with recall 0.78 and ROC-AUC 0.84 on a 1,409-customer test set. Power BI dashboard showing churn by contract, tenure, services and customer risk level. Built with Python, pandas, scikit-learn, SQL and Power BI.
 - **[CareerPilot](https://github.com/fatimazahra-marghich/CareerPilot-v2)**: AI-powered recruitment web app with CV analysis, ATS scoring, job matching and a voice-based interview simulator. Built with React, Django REST Framework and PostgreSQL.
-- **[Ijaza](https://github.com/fatimazahra-marghich/ijaza-leave-management))**: leave management web app that digitalizes a manual process for a public administration. Four role-based spaces, a two-level approval workflow and JWT authentication. Built with Django REST Framework, PostgreSQL, React and Tailwind CSS.
+- **[Ijaza](https://github.com/fatimazahra-marghich/ijaza-leave-management)**: leave management web app that digitalizes a manual process for a public administration. Four role-based spaces, a two-level approval workflow and JWT authentication. Built with Django REST Framework, PostgreSQL, React and Tailwind CSS.
 - **[ESTO-EduTech](https://github.com/fatimazahra-marghich/esto-edutech)**: school management platform for courses, grades and absences, with role-based access. Built with Laravel, PHP, JavaScript and MySQL.
 - **[Study Up](https://github.com/fatimazahra-marghich/study-up)**: desktop app for student task management with a Pomodoro timer, calendar, whiteboard and progress stats. Built with Java, JavaFX and MySQL.
 
