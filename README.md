@@ -12,8 +12,8 @@
 
 4th-year software engineering student at ENIAD Berkane, Morocco. I build full-stack web apps, and I am now focusing on data and AI (machine learning, RAG) with clean code, tests and DevOps practices.
 
-🔭 &nbsp;I'm currently working on **my GitHub projects (CareerPilot, RAG assistant, churn prediction)**  
-🌱 &nbsp;I'm currently learning **machine learning, RAG and DevOps practices**  
+🔭 &nbsp;I'm currently working on **my GitHub projects (CareerPilot, RAG assistant, churn prediction, DevOps lab)**  
+🌱 &nbsp;I'm currently learning **machine learning, RAG, Ansible and Terraform**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web projects and data / AI apps**  
 🤔 &nbsp;I'm looking for a **6-month PFE internship in Data & AI / DevOps / full-stack** (from January 15, 2027, anywhere in Morocco)
 
@@ -51,6 +51,7 @@
 
 - **[RAG ENIAD](https://github.com/fatimazahra-marghich/rag-eniad)**: French question-answering assistant over PDF documents. PDF extraction (PyMuPDF), multilingual embeddings (multilingual-e5-small), Chroma vector store and Groq LLM generation. A calibrated similarity threshold and a refusal instruction reduce invented answers: 9/10 on 10 new questions never used for tuning. FastAPI API (`/ask`, `/agent`, `/health`), a two-tool agent with tool calling, 38 automated tests, GitHub Actions CI and a Docker image on GitHub Container Registry. Built with Python, FastAPI, Chroma and Docker.
 - **[Telco Churn Prediction](https://github.com/fatimazahra-marghich/telco-churn-prediction)**: analysis of 7,043 telecom customers with pandas and SQL, chi-square tests, and classification models (logistic regression, random forest) with recall 0.78 and ROC-AUC 0.84 on a 1,409-customer test set. Power BI dashboard showing churn by contract, tenure, services and customer risk level. Built with Python, pandas, scikit-learn, SQL and Power BI.
+- **[devops-lab](https://github.com/fatimazahra-marghich/devops-lab)**: local Infrastructure-as-Code lab (October 2026). An Ansible role (tasks, handlers, Jinja2 templates, variables) installs and configures nginx on an Ubuntu container over SSH, with idempotence verified (changed=6 then changed=0). A Terraform configuration (Docker provider) provisions an nginx container with the `init`, `plan`, `apply`, `destroy` cycle. A GitHub Actions pipeline runs `ansible-lint` and `terraform validate` on every push. Fully local (Docker Desktop), SSH keys excluded from the repo. Built with Ansible, Terraform, Docker and GitHub Actions.
 - **[CareerPilot](https://github.com/fatimazahra-marghich/CareerPilot-v2)**: AI-powered recruitment web app with CV analysis, ATS scoring, job matching and a voice-based interview simulator. Built with React, Django REST Framework and PostgreSQL.
 - **[Ijaza](https://github.com/fatimazahra-marghich/ijaza-leave-management)**: leave management web app that digitalizes a manual process for a public administration. Four role-based spaces, a two-level approval workflow and JWT authentication. Built with Django REST Framework, PostgreSQL, React and Tailwind CSS.
 - **[ESTO-EduTech](https://github.com/fatimazahra-marghich/esto-edutech)**: school management platform for courses, grades and absences, with role-based access. Built with Laravel, PHP, JavaScript and MySQL.
