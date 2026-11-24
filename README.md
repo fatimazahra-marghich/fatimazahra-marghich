@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/fatimazahra-marghich">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Fatima%20Zahra%20%F0%9F%91%8B" alt="Hello! I&#39;m Fatima Zahra Marghich👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Fatima%20Zahra%20%F0%9F%91%8B" alt="Hello! I&#39;m Fatima Zahra 👋" />
   </a>
 </p>
 
